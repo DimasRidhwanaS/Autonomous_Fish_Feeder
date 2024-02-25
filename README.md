@@ -1,6 +1,6 @@
 # AquEco 
 
-AquEco is short for Aquatic Ecosystem. This project is the mandatory project for fulfilling our graduation of MBC HME ITB (Orientation Period of Himpunan Mahasiswa Elektroteknik ITB)
+AquEco is short for Aquatic Ecosystem. This project is the mandatory project for fulfilling our graduation of MBC HME ITB (Orientation Period of Himpunan Mahasiswa Elektroteknik ITB).<br>
 This device is divided into two parts, namely the fish feeder and aquarium condition monitor. 
 The fish feeder section can feed fish automatically every 24 hours and monitor the availability of food in the food storage container. 
 The aquarium condition monitoring section will send data on the condition of the water pump, water temperature, water pH and water level conditions every 3 hours. 
